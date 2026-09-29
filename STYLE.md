@@ -96,7 +96,29 @@ An optional subtitle follows a colon: "House of BRICS:  the New Development Bank
 - "percent" in running text; "%" is acceptable in dense statistical passages. Keep one form within a piece.
 - PPP-adjusted dollar figures are labeled as such.
 
-## 9. Avoid
+## 9. Policy notes to officials
+
+Derived from the author's own rewrite of a note to the Prime Minister of Moldova (September 2026). This register differs from the op-ed register above. Where the two conflict, these rules win for notes and memos addressed to officials.
+
+- **Numbered paragraphs.** Number every paragraph (1., 2., 3., …). Each paragraph makes one point.
+- **Plain opening.** Paragraph 1 states who the author is in relation to the subject and what the note does, in one or two sentences. Do not put a thesis, a hook, or a conclusion in paragraph 1.
+  - "In July 2026 I presented an assessment of Moldova's investment climate to a roundtable at the State University of Moldova. This note summarizes that assessment (and revises it in light of recent developments)."
+- **Claim first.** Open each paragraph with its claim, then support it with a few facts.
+- **Chain the argument between paragraphs.** Open each paragraph with a logical connector that links it to the one before:
+  - "Nevertheless, Moldova has a credible reform agenda…"
+  - "Therefore, any partial or incomplete implementation will constrain economic progress."
+  - "Partial reform may also be limiting…"
+  - "In an era of shrinking official aid flows, …"
+- **Short sentences.** Write one fact per sentence. Avoid long semicolon chains and em-dash asides; use at most one em dash per paragraph.
+- **Less detail than an op-ed.** Give the headline figure and drop the sub-breakdowns (e.g., state the €1.9 billion total without the grant/loan split). Name categories without listing every example of each. Drop quantified estimates when the category is enough.
+- **Put new data where it belongs.** Fold the latest figures into the paragraph they support instead of collecting them in a separate "what has changed" section. For example, put a growth downgrade in the paragraph on the starting position.
+- **Lists.** Introduce inline lists with a colon and two spaces, even directly after a verb ("hampered by:  a pandemic, a war next door, …"). Use (i)–(v) for option sets.
+- **Comparisons.** Use "down from X" or "up from X" for change over time.
+- **Coined or borrowed terms.** Put them in quotation marks: a "supply-side" response.
+- **Abbreviated months.** Abbreviate months in dates ("Sept. 2026").
+- **Tables and calendars.** Leave them out unless they are needed. The note is prose.
+
+## 10. Avoid
 
 - Typos present in the drafts (e.g., "diffrerent", "Seatle", "$450 mission"). They are not part of the style.
 - Florid or ornamental language.
